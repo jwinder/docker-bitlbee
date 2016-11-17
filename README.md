@@ -32,7 +32,7 @@ All following times:
 
 ## Chatting
 
-You can private message a nick `/message <nick> <msg>` from the control channel. Within reason, you can invite others to these rooms as well, creating a group chat: `/invite <nick>`.
+You can private message a nick `/msg <nick> <msg>` from the control channel. Within reason, you can invite others to these rooms as well, creating a group chat: `/invite <nick>`.
 
 You can also talk to a nick directly in the control channel. Type a contact's name and direct a message to them just like any irc channel with multiple people: `<nick>: <msg>`. Their response will be in the control channel.
 
