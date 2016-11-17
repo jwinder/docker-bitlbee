@@ -22,8 +22,8 @@ All following times:
 ## Common commands
 
 - `help` and `help commands` display useful commands listings
-- `account list` or `/names` displays all registered accounts (can be shortened, e.g. `acc li`)
-- `blist` displays all users (can be shortened e.g. `bli`)
+- `account list` displays all registered accounts (can be shortened, e.g. `acc li`)
+- `blist` or `/names` displays all contacts (can be shortened e.g. `bli`)
 - `plugins` for a list of supported protocols
 - `help purple` for a list of libpurple supported protocols
 - `save` to save the current configuration (sometimes after adding/changing accounts, it doesn't save right away)
