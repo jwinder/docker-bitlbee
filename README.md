@@ -29,6 +29,7 @@ All following times:
 - `save` to save the current configuration (sometimes after adding/changing accounts, it doesn't save right away)
 - `account <name> set tag <new-name>` renames an account
 - `account <name> set auto_connect off` to turn off autoconnect for a specific account on login
+- `chan &bitlbee set show_users online+,away+,offline` to show more than online contacts for `/names`
 
 ## Chatting
 
