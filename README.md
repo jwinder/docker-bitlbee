@@ -48,6 +48,8 @@ Bitlbee will automatically open a private irc channel to the twitter contact con
 
 Sending a message to the twitter contact in the control channel as well as inside of the private twitter irc channel will both post tweets, so be careful.
 
+Sending a private message to a twitter user via `/msg <nick> <msg>` will send that user a twitter DM, not a tweet.
+
 ## Facebook
 
 Create an app password for bitlbee [here](https://www.facebook.com/settings?tab=security&section=per_app_passwords).
