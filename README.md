@@ -1,13 +1,14 @@
 docker-bitlbee
 ==============
 
-[bitlbee.org](https://bitlbee.org)
+- https://bitlbee.org
+- https://hub.docker.com/r/jwinder/docker-bitlbee
 
 ## Logging in
 
 To run bitlbee:
 
-- `docker run -d -p 6667:6667 -v $HOME/.bitlbee/:/var/lib/bitlbee/ jwinder/bitlbee`
+- `docker run -d -p 6667:6667 -v $HOME/.bitlbee/:/var/lib/bitlbee/ jwinder/docker-bitlbee`
 
 Then connect to `localhost:6667` with an irc client and switch to the `&bitlbee` channel. This is the control channel where you will interact with bitlbee.
 
