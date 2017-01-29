@@ -1,6 +1,8 @@
 docker-bitlbee
 ==============
 
+![](https://img.shields.io/docker/automated/jwinder/docker-bitlbee.svg)
+
 - https://bitlbee.org
 - https://hub.docker.com/r/jwinder/docker-bitlbee
 
