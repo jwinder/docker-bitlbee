@@ -1,6 +1,8 @@
 docker-bitlbee
 ==============
 
+WARNING: This is currently not being used or maintained.
+
 ![](https://img.shields.io/docker/automated/jwinder/docker-bitlbee.svg)
 
 - https://bitlbee.org
